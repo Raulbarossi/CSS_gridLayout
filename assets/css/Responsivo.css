@@ -1,0 +1,23 @@
+@media screen and (min-width: 0px){
+    .cabecalho {
+        background: yellow;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .cabecalho {
+        background: green;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .cabecalho {
+        background: blue;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .cabecalho {
+        background: red;
+    }
+}
