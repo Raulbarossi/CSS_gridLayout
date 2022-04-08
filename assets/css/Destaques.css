@@ -19,6 +19,7 @@
 }
 .destaques__principal{
     background: url('../img/fortnite.jpg') center / cover no-repeat;
+    background-position: top;
     grid-row: 1 / 3;
 }
 
